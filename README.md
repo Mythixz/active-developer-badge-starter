@@ -1,5 +1,4 @@
-1. สร้าง README.md ให้น่าใช้
-แนะนำใส่คำอธิบาย, วิธีติดตั้ง และวิธีรันบอท
+
 
 # 🏅 Discord Active Developer Badge Bot
 
