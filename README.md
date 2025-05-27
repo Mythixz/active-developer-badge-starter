@@ -1,9 +1,6 @@
 1. สร้าง README.md ให้น่าใช้
 แนะนำใส่คำอธิบาย, วิธีติดตั้ง และวิธีรันบอท
 
-markdown
-Copy
-Edit
 # 🏅 Discord Active Developer Badge Bot
 
 Minimal Python bot with a slash command (`/ping`) to help you get the **Active Developer Badge**.
